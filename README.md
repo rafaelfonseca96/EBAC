@@ -1,2 +1,1 @@
-# EBAC
-Repositório de testes para o curso da EBAC
+Esse repositório tem o intuito de aprender os comandas de git e atualização para manipulação de repositórios no Github, então esse read me se trata também de um modo de aprendizado, fiz isso arquivo txt no Colab utilizando python e markdown e atualizei ele no Github através dos comandos git.
